@@ -1,5 +1,6 @@
 # iris-ai
 My pipeline from data visualisation to model training to prediction on the [UCL Iris dataset](https://archive.ics.uci.edu/ml/datasets/iris)
+
 Feedback and pull requests are very welcome
 
 ## Copyright
@@ -15,6 +16,12 @@ along with this program.  If you have not received this, see <http://www.gnu.org
 
 For a summary of the licence go to https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)
 
+## Plots of data
+![Column 1](Figure_1.png?raw=true "Column 1")
+![Column 2](Figure_2.png?raw=true "Column 2")
+![Column 3](Figure_3.png?raw=true "Column 3")
+![Column 4](Figure_4.png?raw=true "Column 4")
+![Classes](Figure_Classes.png?raw=true "Classes")
 ## Prerequisites
 ### For One Liner
 * Curl `apt-get install curl`
