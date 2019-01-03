@@ -1,6 +1,6 @@
 # iris-ai
 My pipeline from data visualisation to model training to prediction on the [UCL Iris dataset](https://archive.ics.uci.edu/ml/datasets/iris)  
-98% train accuracy 98% test accuracy  
+99% train accuracy 98% test accuracy  
 Feedback and pull requests are very welcome
 
 ## Copyright
