@@ -34,7 +34,7 @@ else:
     print(index)
     #uses the next most confident prediction
     print("Searching for alternative prediction")
-    index=sorted(prediction)[1]
+    index=prediction.index(sorted(prediction)[-2])
     if index==1:
         print("Iris Setosa")
     elif index==2:
